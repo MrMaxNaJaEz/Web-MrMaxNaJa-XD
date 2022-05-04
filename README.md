@@ -1,1 +1,3 @@
-# Web-MrMaxNaJa-XD
+# Website Infomation
+
+สามารถแก้ไขได้ ปรับเปลี่ยนได้ตามใจชอบ และอย่าลืมให้เครดิต Github ด้วยนะครับ
